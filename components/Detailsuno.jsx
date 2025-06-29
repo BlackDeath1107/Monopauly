@@ -17,7 +17,7 @@ const Detailsuno = () => {
       <div>
         <h1 className="text-white text-[80px]">WITH US YOU ARE</h1>
         <h1 className="text-white text-[80px] font-bold">NOT SCROLLING DOWN</h1>
-        <h1 className="text-[80px] font-bold text-green-400">YOU WILL BE MOVING UP</h1>
+        <h1 className="text-[80px] font-bold text-green-400">YOU WILL BE SCALING UP!</h1>
       </div>
     </div>
   );

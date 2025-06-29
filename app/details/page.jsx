@@ -2,6 +2,11 @@
 import Detailsuno from "@/components/Detailsuno";
 import Detailsdos from "@/components/Detailsdos";
 import Detailstres from "@/components/Detailstres";
+import Detailsfour from "@/components/Detailsfour";
+import Detailsfive from "@/components/Detailsfive";
+import Detailssix from "@/components/Detailssix";
+import Detailsseven from "@/components/Detailsseven";
+import Detailseight from "@/components/Detailseight";
 
 import React, { useEffect, useRef, useState } from "react";
 
@@ -68,6 +73,15 @@ const Page = () => {
 
   return (
     <div ref={scrollContainerRef} className="w-screen h-screen overflow-auto">
+      <div className="w-screen h-screen bg-black">
+        <Detailseight />
+      </div>
+      <div className="w-screen h-screen bg-green-400">
+        <Detailsseven />
+      </div>
+      <div className="w-screen h-screen bg-black">
+        <Detailsfour />
+      </div>
       <div className="w-screen h-screen bg-white">
         <Detailstres />
       </div>

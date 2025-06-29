@@ -112,9 +112,14 @@ const Deatailsdos = () => {
       {/* Text overlay (visible all the time) */}
       <div className="absolute inset-0 flex flex-col items-center justify-center z-30 pointer-events-none">
         <h1 className="text-xl font-bold text-gray-800">
-          We disrupt the norm with
+          We rethink incorporation with
         </h1>
-        <h1 className="text-8xl font-bold text-gray-800">Our Atypical Approach</h1>
+        <h1 className="text-8xl font-bold text-gray-800">
+          STRATEGIC
+        </h1>
+        <h1 className="text-8xl font-bold text-gray-800">
+         GEO-ARBITAGE
+        </h1>
       </div>
     </div>
   );
