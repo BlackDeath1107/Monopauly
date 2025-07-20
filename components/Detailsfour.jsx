@@ -6,7 +6,7 @@ const Detailsfour = () => {
     <div className="">
       <div className="bg-green-400 p-3">
         <h1 className="text-black text-7xl font-extrabold text-center">
-          LEGAL ATYPICAL LAW FIRM MONOPAULY
+          GLOBAL COMPLIANCE PARTNER MONOPAULY
         </h1>
       </div>
         <div className="flex flex-row items-center justify-between pt-24">
